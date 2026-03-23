@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am **Wenghao**, a master's student at the **School of Computer Science, Shanghai Jiao Tong University**.
+## About Me
+
+A master's student in the School of Computer Science, Shanghai Jiao Tong University.
 
 My research interests focus on:
 
