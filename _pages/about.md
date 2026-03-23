@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenghao"
+title: "Hao Weng"
 author_profile: true
 redirect_from:
   - /about/
